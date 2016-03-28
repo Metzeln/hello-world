@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Metzeln here, Programming it's one of my favorite passions.
+I can't live without it.
